@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nonstoppop0000/beta-script/main/beta%20script"))()
